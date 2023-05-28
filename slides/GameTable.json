@@ -3,25 +3,38 @@
     {
       "type": "slide",
       "start_animation": 0,
-      "end_animation": 1,
+      "end_animation": 2,
       "number": 1,
       "terminated": false
     },
     {
-      "type": "last",
-      "start_animation": 1,
-      "end_animation": 2,
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 7,
       "number": 2,
+      "terminated": false
+    },
+    {
+      "type": "last",
+      "start_animation": 7,
+      "end_animation": 8,
+      "number": 3,
       "terminated": false
     }
   ],
   "files": [
-    "slides/files/GameTable/2902699114_36127074_2358810818.mp4",
-    "slides/files/GameTable/3931933789_2852549699_3880958513.mp4"
+    "slides/files/GameTable/274514146_4002585156_2358810818.mp4",
+    "slides/files/GameTable/207390714_3897442324_2749684041.mp4",
+    "slides/files/GameTable/2789044632_3026927184_4210028567.mp4",
+    "slides/files/GameTable/2789044632_3026927184_3305402538.mp4",
+    "slides/files/GameTable/2789044632_3026927184_112116065.mp4",
+    "slides/files/GameTable/2789044632_3026927184_2902258967.mp4",
+    "slides/files/GameTable/2789044632_3026927184_214621362.mp4",
+    "slides/files/GameTable/2789044632_163378939_1955020882.mp4"
   ],
   "resolution": [
-    1920,
-    1080
+    1280,
+    720
   ],
   "background_color": "black"
 }
