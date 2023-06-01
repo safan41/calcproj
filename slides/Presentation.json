@@ -1,0 +1,46 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 2,
+      "number": 1,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 4,
+      "number": 2,
+      "terminated": false
+    },
+    {
+      "type": "last",
+      "start_animation": 4,
+      "end_animation": 14,
+      "number": 3,
+      "terminated": false
+    }
+  ],
+  "files": [
+    "slides/files/Presentation/274514146_1963992040_2358810818.mp4",
+    "slides/files/Presentation/2789044632_422751265_1314114625.mp4",
+    "slides/files/Presentation/2789044632_4158225780_989845841.mp4",
+    "slides/files/Presentation/2789044632_3026927184_3221765815.mp4",
+    "slides/files/Presentation/2789044632_3026927184_1994103004.mp4",
+    "slides/files/Presentation/2789044632_3026927184_1505430616.mp4",
+    "slides/files/Presentation/2789044632_3026927184_3158291730.mp4",
+    "slides/files/Presentation/2789044632_3026927184_1836702885.mp4",
+    "slides/files/Presentation/2789044632_3026927184_3883404025.mp4",
+    "slides/files/Presentation/2789044632_3026927184_161106409.mp4",
+    "slides/files/Presentation/2789044632_3026927184_2505855760.mp4",
+    "slides/files/Presentation/2789044632_3026927184_369396544.mp4",
+    "slides/files/Presentation/2789044632_2288422665_1986791493.mp4",
+    "slides/files/Presentation/2789044632_2288422665_1986791493.mp4"
+  ],
+  "resolution": [
+    1280,
+    720
+  ],
+  "background_color": "black"
+}
